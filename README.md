@@ -51,18 +51,35 @@
 	![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px> </picture> Github Stats
-#### Streak Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=diegodel6&theme=vision-friendly-dark&hide_border=false)<br/>
+<details>
+<summary><h4>⚡ Streak Stats</h4></summary>
 
-#### GitHub Profile Stats:
-![](https://github-readme-stats.vercel.app/api?username=diegodel6&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=diegodel6&theme=vision-friendly-dark&hide_border=false)
+
+</details>
+
+<details>
+<summary><h4>📊 GitHub Profile Stats</h4></summary>
+
+![](https://github-readme-stats.vercel.app/api?username=diegodel6&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodel6&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#### GitHub Trophies:
+</details>
+
+<details>
+<summary><h4>🏆 GitHub Trophies</h4></summary>
+
 ![](https://github-profile-trophy.vercel.app/?username=diegodel6&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
 
-#### Top Contributed Repo:
+</details>
+
+<details>
+<summary><h4>📈 Top Contributed Repo</h4></summary>
+
 ![](https://github-contributor-stats.vercel.app/api?username=diegodel6&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+
+</details>
 
 ----
 

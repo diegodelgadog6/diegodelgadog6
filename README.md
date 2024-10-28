@@ -52,28 +52,28 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px> </picture> Github Stats
 <details>
-<summary><h4>⚡ Streak Stats</h4></summary>
+<summary><h4>Streak Stats:</h4></summary>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diegodel6&theme=vision-friendly-dark&hide_border=false)
 
 </details>
 
 <details>
-<summary><h4>📊 GitHub Profile Stats</h4></summary>
+<summary><h4>GitHub Profile Stats:</h4></summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegodel6&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodel6&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </details>
 
 <details>
-<summary><h4>🏆 GitHub Trophies</h4></summary>
+<summary><h4>GitHub Trophies:</h4></summary>
 
 ![](https://github-profile-trophy.vercel.app/?username=diegodel6&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
 
 </details>
 
 <details>
-<summary><h4>📈 Top Contributed Repo</h4></summary>
+<summary><h4>Top Contributed Repo:</h4></summary>
 
 ![](https://github-contributor-stats.vercel.app/api?username=diegodel6&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 

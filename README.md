@@ -5,12 +5,12 @@
 <picture><img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" width = 360px></picture>
 
 <br><br>
-### About me
-- :school: I am a `Junior` at [Monterrey Institute of Technology and Higher Education (ITESM)](https://tec.mx/es).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/diegodel6/diegodel6/blob/23cd44d406077693bb0b3660e5cfbb3300f4f88f/CV.pdf).
+	### About me
+	- :school: I am a `Junior` at [Monterrey Institute of Technology and Higher Education (ITESM)](https://tec.mx/es).
+	- :technologist: I love using Software as a solution for every `Problem`.
+	- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+	- :nerd_face: Always `learning new things`.
+	- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/diegodel6/diegodel6/blob/23cd44d406077693bb0b3660e5cfbb3300f4f88f/CV.pdf).
 <br>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="120px"></picture> Connect with me
@@ -23,33 +23,51 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> My Skills
 - #### Programming languages:
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   
 - #### Frontend Development:
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   
 - #### Software & Tools: 
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-  ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+	![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+	![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+	![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+	![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   
 - #### IDEs:
-  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+	![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 - #### Operating Systems:
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+	![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+	![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px> </picture> Github Stats
+<details><summary><h3> 🔥 Streak Stats:</h3></summary>
+	![](https://github-readme-streak-stats.herokuapp.com/?user=diegodel6&theme=vision-friendly-dark&hide_border=false)<br/>
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats:</h3></summary>
+	![](https://github-readme-stats.vercel.app/api?username=diegodel6&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+	![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodel6&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</details>
 
+<details><summary> <h3>🏆 Git profile Trophies:</h3></summary>
+	![](https://github-profile-trophy.vercel.app/?username=diegodel6&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
+</details>
+
+<details><summary><h3>🔝 Top Contributed Repo:</h3></summary>
+	![](https://github-contributor-stats.vercel.app/api?username=diegodel6&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+</details>
+	
+<details><summary><h3> :open_file_folder: My Repositories:</h3></summary>
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">

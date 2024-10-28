@@ -1,4 +1,4 @@
-![Banner](https://github.com/diegodel6/diegodel6/blob/main/mysterious.jpg?raw=true)
+![Banner](https://github.com/diegodel6/diegodel6/blob/main/3d-abstract-7680x4320-13512.jpg?raw=true)
 
 <h1 align="center">Hi , I'm Diego Delgado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 

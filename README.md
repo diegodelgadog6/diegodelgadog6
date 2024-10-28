@@ -13,7 +13,7 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/diegodel6/diegodel6/blob/23cd44d406077693bb0b3660e5cfbb3300f4f88f/CV.pdf).
 <br>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="150px"></picture> Connect with me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="120px"></picture> Connect with me
 <p align="center">
 	<a href="https://wa.me/523221935914"><img img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Gmail"/></a>
 	<a href="mailto:diegodelgadog1@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>

@@ -12,14 +12,12 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/15TG-omxy21CYqdSjkqsfV08CftSXLAgG/view?usp=sharing).
 <br>
 
-
 ## 📨 Connect with me
 <p align="center">
 	<a href="mailto:diegodelgadog1@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/diegodel6"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="www.linkedin.com/in/diego-delgado-753bab233"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
 
 ## 🛠️ My Skills
 - #### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages:

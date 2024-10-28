@@ -9,7 +9,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/diegodel6/diegodel6/blob/8779a0531416463d03080917e7c5effe22fd553a/Curriculum%20Vitae.pdf).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/diegodel6/diegodel6/blob/23cd44d406077693bb0b3660e5cfbb3300f4f88f/CV.pdf).
 <br>
 
 ## 📨 Connect with me

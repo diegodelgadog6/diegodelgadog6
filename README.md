@@ -1,6 +1,6 @@
 ![Banner](https://github.com/diegodel6/diegodel6/blob/main/3d-abstract.jpg?raw=true)
 
-<h1 align="center">Hi , I'm Diego Delgado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Diego Delgado 👋</h1>
 
 <picture><img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" width = 360px></picture>
 
@@ -13,7 +13,7 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/diegodel6/diegodel6/blob/23cd44d406077693bb0b3660e5cfbb3300f4f88f/CV.pdf).
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="150px"></picture> Connect with me
 <p align="center">
 	<a href="https://wa.me/523221935914"><img img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Gmail"/></a>
 	<a href="mailto:diegodelgadog1@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -48,7 +48,7 @@
 - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px> </picture> Github Stats
 
 
 <p align = "center">

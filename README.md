@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi , I'm Diego Delgado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<picture><img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/darth-vader-vader.gif?raw=true" width = 280px></picture>
+<picture><img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" width = 315px></picture>
 
 <br><br>
 - :school: I am a `Junior` at [Monterrey Institute of Technology and Higher Education (ITESM)](https://tec.mx/es).

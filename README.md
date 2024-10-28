@@ -2,16 +2,18 @@
 
 <h1 align="center">Hi , I'm Diego Delgado 👋</h1>
 
-<picture><img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" width = 360px></picture>
+<picture><img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" width = 370px></picture>
 
 <br><br>
-	### About me
-	- :school: I am a `Junior` at [Monterrey Institute of Technology and Higher Education (ITESM)](https://tec.mx/es).
-	- :technologist: I love using Software as a solution for every `Problem`.
-	- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-	- :nerd_face: Always `learning new things`.
-	- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/diegodel6/diegodel6/blob/23cd44d406077693bb0b3660e5cfbb3300f4f88f/CV.pdf).
+### About me
+- :school: I am a `Junior` at [Monterrey Institute of Technology and Higher Education (ITESM)](https://tec.mx/es).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/diegodel6/diegodel6/blob/23cd44d406077693bb0b3660e5cfbb3300f4f88f/CV.pdf).
 <br>
+
+[![](https://visitcount.itsvg.in/api?id=diegodel6&icon=0&color=2)](https://visitcount.itsvg.in)
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="120px"></picture> Connect with me
 <p align="center">
@@ -48,26 +50,21 @@
 	![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 	![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px> </picture> Github Stats
-<details><summary><h3> 🔥 Streak Stats:</h3></summary>
-	![](https://github-readme-streak-stats.herokuapp.com/?user=diegodel6&theme=vision-friendly-dark&hide_border=false)<br/>
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats:</h3></summary>
-	![](https://github-readme-stats.vercel.app/api?username=diegodel6&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-	![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodel6&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</details>
+#### Streak Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=diegodel6&theme=vision-friendly-dark&hide_border=false)<br/>
 
-<details><summary> <h3>🏆 Git profile Trophies:</h3></summary>
-	![](https://github-profile-trophy.vercel.app/?username=diegodel6&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
-</details>
+#### GitHub Profile Stats:
+![](https://github-readme-stats.vercel.app/api?username=diegodel6&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodel6&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<details><summary><h3>🔝 Top Contributed Repo:</h3></summary>
-	![](https://github-contributor-stats.vercel.app/api?username=diegodel6&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories:</h3></summary>
+#### GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=diegodel6&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
+
+#### Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=diegodel6&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+
+----
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">

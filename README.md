@@ -1,5 +1,3 @@
-![Banner](https://github.com/diegodel6/diegodel6/blob/fcfb35d2969803e92a9fa0cb335e20c8f3f57b31/3d-abstract.jpg)
-
 <h1 align="center">Hi , I'm Diego Delgado 👋</h1>
 
 <picture><img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" width = 370px></picture>

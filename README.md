@@ -34,8 +34,6 @@
 - #### Software & Tools: 
 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-	![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-	![MATLAB](https://custom-icon-badges.demolab.com/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 	![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
   
 - #### IDEs:
@@ -45,13 +43,6 @@
   
 - #### Operating Systems:
 	![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-	![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-	![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px> </picture> Github Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegodel6&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodel6&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=diegodel6&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 ----
 

@@ -6,9 +6,12 @@
 
 <h1 align="center">Hi, I'm Diego Delgado 👋</h1>
 
-<picture><img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" width="250px"></picture>
+<picture>
+    <img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" 
+         width="188px" style="margin-left: 15px;">
+</picture>
 
-<pre align="left">
+<pre>
 🎓 I am a <code>Junior</code> at <a href="https://tec.mx/es">Monterrey Institute of Technology and Higher Education (ITESM)</a>.
 💻 I love using <code>Software</code> as a solution for every <code>Problem</code>.
 📚 I’m currently learning <code>Computer Science</code> and <code>Software Engineering</code>.
@@ -18,7 +21,7 @@
 📬 Feel free to <a href="https://linktr.ee/diegodelgadog6">Contact me here</a>.
 </pre>
 
-&nbsp;
+<div style="font-size: 14px;">
 
 ## 🛠 My Skills
 
@@ -43,6 +46,8 @@
 
 ### 🏠 Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
 
 ---
 

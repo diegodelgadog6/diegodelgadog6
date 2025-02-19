@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
     <img src="https://github.com/diegodelgadog6/diegodelgadog6/raw/main/Bosque%20Magico.png" 
          style="max-height: 150px; width: 100%; object-fit: cover;" 
          alt="Banner">
@@ -12,15 +12,15 @@
 </picture>
 
 <pre>
-🎓 I am a <code>Computer Technologies Engineering Student</code> at <a href="https://tec.mx/es">Tecnológico de Monterrey</a>.
-📍 I live in <code>Zapotlán, Jalisco, Mexico</code>, a place full of culture and innovation.
-🗣 I am fluent in <code>Spanish</code> (native) and <code>English</code> (B2), allowing me to collaborate globally.
-💻 I love using <code>Software</code> as a solution for every <code>Problem</code>.
-📚 I’m currently learning <code>Computer Science</code> and <code>Software Engineering</code>.
-🧠 Always <code>learning new things</code>.
-🚀 I’m currently open for a new <code>job opportunity</code>.
-📄 Take a look at my experience and skills in <a href="https://github.com/diegodel6/diegodel6/blob/main/CV.pdf">My Resume</a>.
-📬 Wanna chat? Let's connect! <a href="https://linktr.ee/diegodelgadog6">Contact me</a>.
+🎓 I am a <strong>Computer Technologies Engineering Student</strong> at <a href="https://tec.mx/es">Tecnológico de Monterrey</a>.
+📍 Based in <strong>Zapotlán, Jalisco, Mexico</strong>.
+🗣 Fluent in <strong>Spanish</strong> (native) and <strong>English</strong> (B2).
+💻 Passionate about using <strong>Software</strong> to solve <strong>real-world problems</strong>.
+📚 Currently learning <strong>Computer Science</strong> and <strong>Software Engineering</strong>.
+🧠 Always <strong>learning and improving</strong>.
+🚀 Open to new <strong>job opportunities</strong>.
+📄 Explore my experience in <a href="https://github.com/diegodel6/diegodel6/blob/main/CV.pdf">My Resume</a>.
+📬 Wanna chat? <a href="https://linktr.ee/diegodelgadog6">Let's connect!</a>.
 </pre>
 
 ## 🛠 My Skills

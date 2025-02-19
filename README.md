@@ -17,11 +17,9 @@
 📚 I’m currently learning <code>Computer Science</code> and <code>Software Engineering</code>.
 🧠 Always <code>learning new things</code>.
 🚀 I’m currently open for a new <code>job opportunity</code>.
-📄 Check out <a href="https://github.com/diegodel6/diegodel6/blob/main/CV.pdf">My Resume</a>.
-📬 Feel free to <a href="https://linktr.ee/diegodelgadog6">Contact me here</a>.
+📄 Take a look at my experience and skills in <a href="https://github.com/diegodel6/diegodel6/blob/main/CV.pdf">My Resume</a>.
+📬 Wanna chat? Let's connect! <a href="https://linktr.ee/diegodelgadog6">Contact me</a>.
 </pre>
-
-<div style="font-size: 14px;">
 
 ## 🛠 My Skills
 
@@ -46,11 +44,3 @@
 
 ### 🏠 Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
-
----
-
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Quote">
-</p>

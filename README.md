@@ -8,7 +8,7 @@
 
 <picture>
     <img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" 
-         width="225px" style="margin-left: 15px;">
+         width="220px" style="margin-left: 15px;">
 </picture>
 
 <pre>

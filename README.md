@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Diego Delgado 👋</h1>
 
-<picture><img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" width="190px"></picture>
+<picture><img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" width="188px"></picture>
 
 <pre align="left">
 🎓 I am a <code>Junior</code> at <a href="https://tec.mx/es">Monterrey Institute of Technology and Higher Education (ITESM)</a>.

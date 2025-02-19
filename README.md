@@ -1,15 +1,22 @@
+<p align="center">
+    <img src="https://github.com/diegodelgadog6/diegodelgadog6/raw/main/Bosque%20Magico.png" width="100%" alt="Banner">
+</p>
+
 <h1 align="center">Hi, I'm Diego Delgado 👋</h1>
 
-<picture><img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" width="250px"></picture>
+<picture><img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" width="190px"></picture>
 
-- 🎓 I am a `Junior` at [Monterrey Institute of Technology and Higher Education (ITESM)](https://tec.mx/es).  
-- 💻 I love using Software as a solution for every `Problem`.  
-- 📚 I’m currently learning `Computer Science` and `Software Engineering`.  
-- 🧠 Always `learning new things`.  
-- 🚀 I’m currently open for a new `job opportunity`. This is [MY RESUME](https://github.com/diegodel6/diegodel6/blob/23cd44d406077693bb0b3660e5cfbb3300f4f88f/CV.pdf).  
-- 📬 Feel free to [contact me here](https://linktr.ee/diegodelgadog6).  
+<pre align="left">
+🎓 I am a <code>Junior</code> at <a href="https://tec.mx/es">Monterrey Institute of Technology and Higher Education (ITESM)</a>.
+💻 I love using <code>Software</code> as a solution for every <code>Problem</code>.
+📚 I’m currently learning <code>Computer Science</code> and <code>Software Engineering</code>.
+🧠 Always <code>learning new things</code>.
+🚀 I’m currently open for a new <code>job opportunity</code>.
+📄 Check out <a href="https://github.com/diegodel6/diegodel6/blob/main/CV.pdf">My Resume</a>.
+📬 Feel free to <a href="https://linktr.ee/diegodelgadog6">Contact me here</a>.
+</pre>
 
----
+&nbsp;
 
 ## 🛠 My Skills
 

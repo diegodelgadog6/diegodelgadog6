@@ -8,11 +8,13 @@
 
 <picture>
     <img align="right" src="https://github.com/diegodel6/diegodel6/blob/main/dance-storm-trooper.gif?raw=true" 
-         width="188px" style="margin-left: 15px;">
+         width="225px" style="margin-left: 15px;">
 </picture>
 
 <pre>
-🎓 I am a <code>Junior</code> at <a href="https://tec.mx/es">Monterrey Institute of Technology and Higher Education (ITESM)</a>.
+🎓 I am a <code>Computer Technologies Engineering Student</code> at <a href="https://tec.mx/es">Tecnológico de Monterrey</a>.
+📍 I live in <code>Zapotlán, Jalisco, Mexico</code>, a place full of culture and innovation.
+🗣 I am fluent in <code>Spanish</code> (native) and <code>English</code> (B2), allowing me to collaborate globally.
 💻 I love using <code>Software</code> as a solution for every <code>Problem</code>.
 📚 I’m currently learning <code>Computer Science</code> and <code>Software Engineering</code>.
 🧠 Always <code>learning new things</code>.

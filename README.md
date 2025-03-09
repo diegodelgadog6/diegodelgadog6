@@ -1,9 +1,3 @@
-<p align="center"> 
-    <img src="https://github.com/diegodelgadog6/diegodelgadog6/raw/main/Bosque%20Magico.png" 
-         style="max-height: 150px; width: 100%; object-fit: cover;" 
-         alt="Banner">
-</p>
-
 <h1 align="center">Hi, I'm Diego Delgado 👋</h1>
 
 <picture>

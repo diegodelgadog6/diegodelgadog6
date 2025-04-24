@@ -16,7 +16,7 @@
 📄 Explore my experience in <a href="https://github.com/diegodel6/diegodel6/blob/main/CV.pdf">My Resume</a>.
 📬 Wanna chat? <a href="https://linktr.ee/diegodelgadog6">Let's connect!</a>.
 
-while(alive) { code(); play(); repeat(); }
+while(alive) { think(); create(); repeat(); }
 </pre>
 
 ## 🛠 My Skills

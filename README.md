@@ -41,3 +41,5 @@ while(alive) { think(); create(); repeat(); }
 
 ### 🏠 Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<img src="diego-terminal.svg" width="975px"/>

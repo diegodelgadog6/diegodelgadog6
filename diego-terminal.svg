@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  font-family="Andale Mono,AndaleMono,Consolas,monospace"
+  width="975px"
+  height="600px"
+  font-size="16px"
+>
+<style>
+.keyColor {fill: #d83788;}
+.valueColor {fill: #05cfff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.commentColor {fill: #d6d40b;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="970px" height="580px" fill="#030d22" rx="15" />
+
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">                       ..                   </tspan>
+<tspan x="15" y="50">                 .';:clodo:,.               </tspan>
+<tspan x="15" y="70">              .;oxOO0000000KXk;             </tspan>
+<tspan x="15" y="90">            .cOXNNKKNX0Odlok0KKd.           </tspan>
+<tspan x="15" y="110">           .xWWNNNNNXd:;'..,cloOd.         </tspan>
+<tspan x="15" y="130">          .xWWWWNXXXk:,'...';;,d0:         </tspan>
+<tspan x="15" y="150">         .xWWWWWWNNKkl:clc;,lxoxKo.        </tspan>
+<tspan x="15" y="170">       .cONNXXNNWNKK0dccoOxlkXK0KOc        </tspan>
+<tspan x="15" y="190">       ;KMWWNXXNNXOo;''';ddc:ccxKX0;       </tspan>
+<tspan x="15" y="210">        oWMMMWWNX0d:,...;xkdc,.;KWNo       </tspan>
+<tspan x="15" y="230">        :XMWWWNNKOkxoc::cdxdo;.:xko.       </tspan>
+<tspan x="15" y="250">        .xNWMMWWXOkkxddxkkxddl;.           </tspan>
+<tspan x="15" y="270">          ,OWMMWX0kxxxxxxxoldx;            </tspan>
+<tspan x="15" y="290">           .xNMN0Okxxxdoc;;;ol.            </tspan>
+<tspan x="15" y="310">            .kWKkkOOOkkxlc:c;.             </tspan>
+<tspan x="15" y="330">          ..'cxkxxkO0000Ox;                </tspan>
+<tspan x="15" y="350">        .','. .';:oxOOkxdc.                </tspan>
+<tspan x="15" y="370">     ......''....':llc;,','..              </tspan>
+<tspan x="15" y="390"> .....     .,;,',;:;,...  .,,'.            </tspan>
+<tspan x="15" y="410">.:,.        .''..,;:;,'....;;'.            </tspan>
+<tspan x="15" y="430">:c'.         .....;::::;'.';;;;..          </tspan>
+<tspan x="15" y="450">lc.    ..    .''.';::;,'...;:::'.          </tspan>
+<tspan x="15" y="470">o:......'.    .,,',;::;,'...;:::,.         </tspan>
+<tspan x="15" y="490">o:......'.    .,,',;::;,'...;:::,.         </tspan>
+<tspan x="15" y="510">o:.....'.   .,,',;::;,'...;:::,.           </tspan>
+</text>
+
+<text x="370" y="30" fill="#c9d1d9">
+<tspan x="370" y="30">diego.delgado6</tspan>
+<tspan x="370" y="50">——————</tspan>
+<tspan x="370" y="70" class="keyColor">Degree</tspan>: <tspan class="valueColor">Computer Technologies Engineering</tspan>
+<tspan x="370" y="90" class="keyColor">School</tspan>: <tspan class="valueColor">Tecnológico de Monterrey</tspan><tspan class="commentColor"> #GDL</tspan>
+<tspan x="370" y="110" class="keyColor">Languages</tspan>: <tspan class="valueColor">Spanish (native), English (B2)</tspan>
+<tspan x="370" y="130" class="keyColor">Focus</tspan>: <tspan class="valueColor">Software solving real-world problems</tspan>
+<tspan x="370" y="150" class="keyColor">Learning</tspan>: <tspan class="valueColor">Computer Science, Software Engineering</tspan>
+<tspan x="370" y="170" class="keyColor">Status</tspan>: <tspan class="valueColor">Open to opportunities</tspan>
+<tspan x="370" y="190" class="keyColor">Resume</tspan>: <tspan class="valueColor">Available on request</tspan>
+<tspan x="370" y="230" class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, C, C++</tspan>
+<tspan x="370" y="250" class="keyColor">Frontend</tspan>: <tspan class="valueColor">HTML5, CSS3</tspan>
+<tspan x="370" y="270" class="keyColor">Tools</tspan>: <tspan class="valueColor">Figma, Canva</tspan>
+<tspan x="370" y="290" class="keyColor">IDEs</tspan>: <tspan class="valueColor">VS Code, CLion, Replit</tspan>
+<tspan x="370" y="310" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows</tspan>
+<tspan x="370" y="350" class="commentColor">while(alive) { think(); create(); repeat(); }</tspan>
+</text>
+</svg>

@@ -58,27 +58,28 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="645">                                                                            </tspan>
 </text>
 
-<text x="720" y="80" fill="#f5f5f5" font-size="20px">
-  <tspan x="720" y="80">diegodelgadog6</tspan>
-  <tspan x="720" y="110">——————</tspan>
-  <tspan x="720" y="140" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Ubuntu, Android 14</tspan>
-  <tspan x="720" y="170" class="keyColor">Uptime</tspan>: <tspan class="valueColor">18 years</tspan>
-  <tspan x="720" y="200" class="keyColor">Host</tspan>: <tspan class="valueColor">Tecnológico de Monterrey</tspan><tspan class="commentColor"> #GDL</tspan>
-  <tspan x="720" y="230" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Technologies Degree</tspan><tspan class="commentColor"> #ITC</tspan>
-  <tspan x="720" y="260" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, CLion, Replit</tspan>
+<text x="720" y="70" fill="#f5f5f5" font-size="20px">
+  <tspan x="720" y="70">diegodelgadog6</tspan>
+  <tspan x="720" y="100">——————</tspan>
+  <tspan x="720" y="130" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Ubuntu, Android 14</tspan>
+  <tspan x="720" y="160" class="keyColor">Uptime</tspan>: <tspan class="valueColor">18 years</tspan>
+  <tspan x="720" y="190" class="keyColor">Host</tspan>: <tspan class="valueColor">Tecnológico de Monterrey</tspan><tspan class="commentColor"> #GDL</tspan>
+  <tspan x="720" y="220" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Technologies Degree</tspan><tspan class="commentColor"> #ITC</tspan>
+  <tspan x="720" y="250" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, CLion, Replit</tspan>
 
-  <tspan x="720" y="300" class="keyColor">Languages.Programming</tspan>: <tspan class="valueColor">Python, C, C++</tspan>
-  <tspan x="720" y="330" class="keyColor">Languages.Computer</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
-  <tspan x="720" y="360" class="keyColor">Languages.Real</tspan>: <tspan class="valueColor">Spanish, English</tspan>
+  <tspan x="720" y="290" class="keyColor">Languages.Programming</tspan>: <tspan class="valueColor">Python, C, C++</tspan>
+  <tspan x="720" y="320" class="keyColor">Languages.Computer</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
+  <tspan x="720" y="350" class="keyColor">Languages.Real</tspan>: <tspan class="valueColor">Spanish, English</tspan>
 
-  <tspan x="720" y="400" class="keyColor">Hobbies.Software</tspan>: <tspan class="valueColor">Videogames, Design, AI</tspan>
-  <tspan x="720" y="430" class="keyColor">Hobbies.Hardware</tspan>: <tspan class="valueColor">PC builds, Tinkering</tspan>
+  <tspan x="720" y="390" class="keyColor">Hobbies.Software</tspan>: <tspan class="valueColor">Videogames, Design, AI</tspan>
+  <tspan x="720" y="420" class="keyColor">Hobbies.Hardware</tspan>: <tspan class="valueColor">PC builds, Tinkering</tspan>
 
-  <tspan x="720" y="490" class="keyColor">Contact:</tspan>
-  <tspan x="720" y="520">——————</tspan>
-  <tspan x="720" y="550" class="keyColor">Email</tspan>: <tspan class="valueColor">diegodelgadog6@example.com</tspan>
-  <tspan x="720" y="580" class="keyColor">Discord</tspan>: <tspan class="valueColor">diego_dev#1234</tspan>
-  <tspan x="720" y="610" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">diegodelgadog6</tspan>
+  <!-- Separación extra -->
+  <tspan x="720" y="480" class="keyColor">Contact:</tspan>
+  <tspan x="720" y="510">——————</tspan>
+  <tspan x="720" y="540" class="keyColor">Email</tspan>: <tspan class="valueColor">diegodelgadog6@example.com</tspan>
+  <tspan x="720" y="570" class="keyColor">Discord</tspan>: <tspan class="valueColor">diego_dev#1234</tspan>
+  <tspan x="720" y="600" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">diegodelgadog6</tspan>
 </text>
 
 </svg>

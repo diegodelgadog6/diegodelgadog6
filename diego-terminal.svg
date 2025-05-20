@@ -4,49 +4,47 @@
   font-family="Andale Mono,AndaleMono,Consolas,monospace"
   width="975px"
   height="650px"
-  font-size="16px"
+  font-size="11px"
 >
 <style>
-.keyColor {fill: #d83788;}
-.valueColor {fill: #05cfff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.commentColor {fill: #d6d40b;}
+.keyColor {fill: #ff8c00;} /* naranja fuerte */
+.valueColor {fill: #00d9ff;} /* cian vibrante */
+.addColor {fill: #00e676;} /* verde neón */
+.delColor {fill: #ff5252;} /* rojo intenso */
+.commentColor {fill: #ffd600;} /* amarillo brillante */
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="630px" fill="#030d22" rx="15" />
+<rect width="970px" height="630px" fill="#1e1e2f" rx="15" /> <!-- fondo oscuro azulado -->
 
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">                       ..                   </tspan>
-<tspan x="15" y="50">                 .';:clodo:,.               </tspan>
-<tspan x="15" y="70">              .;oxOO0000000KXk;             </tspan>
-<tspan x="15" y="90">            .cOXNNKKNX0Odlok0KKd.           </tspan>
-<tspan x="15" y="110">           .xWWNNNNNXd:;'..,cloOd.         </tspan>
-<tspan x="15" y="130">          .xWWWWNXXXk:,'...';;,d0:         </tspan>
-<tspan x="15" y="150">         .xWWWWWWNNKkl:clc;,lxoxKo.        </tspan>
-<tspan x="15" y="170">       .cONNXXNNWNKK0dccoOxlkXK0KOc        </tspan>
-<tspan x="15" y="190">       ;KMWWNXXNNXOo;''';ddc:ccxKX0;       </tspan>
-<tspan x="15" y="210">        oWMMMWWNX0d:,...;xkdc,.;KWNo       </tspan>
-<tspan x="15" y="230">        :XMWWWNNKOkxoc::cdxdo;.:xko.       </tspan>
-<tspan x="15" y="250">        .xNWMMWWXOkkxddxkkxddl;.           </tspan>
-<tspan x="15" y="270">          ,OWMMWX0kxxxxxxxoldx;            </tspan>
-<tspan x="15" y="290">           .xNMN0Okxxxdoc;;;ol.            </tspan>
-<tspan x="15" y="310">            .kWKkkOOOkkxlc:c;.             </tspan>
-<tspan x="15" y="330">          ..'cxkxxkO0000Ox;                </tspan>
-<tspan x="15" y="350">        .','. .';:oxOOkxdc.                </tspan>
-<tspan x="15" y="370">     ......''....':llc;,','..              </tspan>
-<tspan x="15" y="390"> .....     .,;,',;:;,...  .,,'.            </tspan>
-<tspan x="15" y="410">.:,.        .''..,;:;,'....;;'.            </tspan>
-<tspan x="15" y="430">:c'.         .....;::::;'.';;;;..          </tspan>
-<tspan x="15" y="450">lc.    ..    .''.';::;,'...;:::'.          </tspan>
-<tspan x="15" y="470">o:......'.    .,,',;::;,'...;:::,.         </tspan>
-<tspan x="15" y="490">o:......'.    .,,',;::;,'...;:::,.         </tspan>
-<tspan x="15" y="510">o:.....'.   .,,',;::;,'...;:::,.           </tspan>
+<text x="15" y="45" fill="#f5f5f5" class="ascii">
+<tspan x="15" y="30">                        .::::::::::.                        </tspan>
+<tspan x="15" y="50">                    .::::..........::::.                    </tspan>
+<tspan x="15" y="70">                 ..::::...............:::..                 </tspan>
+<tspan x="15" y="90">                .::...:.................:::.                </tspan>
+<tspan x="15" y="110">               .::.......................::-.               </tspan>
+<tspan x="15" y="130">               :-:::::::::::::::::...::::::-:               </tspan>
+<tspan x="15" y="150">              .=---=*#%%%%%%%#####%%###+-::--.              </tspan>
+<tspan x="15" y="170">              :+%%@@@@@@@@@%-.:*@@@@@@@@@%%#=-.             </tspan>
+<tspan x="15" y="190">             .*@@@@@@@@@@#-.....:+%@@@@@@@@@@#.             </tspan>
+<tspan x="15" y="210">              :*%@@@@@@#-..........+%@@@@@@%*=.             </tspan>
+<tspan x="15" y="230">             .=-#@@@%%=::............*%@@@%#-=.             </tspan>
+<tspan x="15" y="250">             .=*%@@+:::::..........::::-%@@%+=.             </tspan>
+<tspan x="15" y="270">             .+%%*:::::::.:#%+%#:.:::::::-#@%+:             </tspan>
+<tspan x="15" y="290">             :*@%::::::::*%#+-+#%+::::::::*@@+-.            </tspan>
+<tspan x="15" y="310">           .::-%#-:::::-%#:::.:::%%-::::::-%@-::.           </tspan>
+<tspan x="15" y="330">           :--::*#-:::#%-::::.::::-%*::::+%*-:--:           </tspan>
+<tspan x="15" y="350">          .=--=::=#+=%-:::::-:-:::::=#-=##-:----=.          </tspan>
+<tspan x="15" y="370">          :+=-:::::+:..::::::::::::...-*-::::--=+:          </tspan>
+<tspan x="15" y="390">          .*+=-:::....::::::--:::::::..::::::-=+#.          </tspan>
+<tspan x="15" y="410">           :#=--::::::::-+*####*+-:::::=*++--=*#-           </tspan>
+<tspan x="15" y="430">           .=#+=----==*##%%%%%%%%##*=---+==+=**-.           </tspan>
+<tspan x="15" y="450">            .+#****#%%%%#*+=--=+**#%%%#*++++**-             </tspan>
+<tspan x="15" y="470">             ..+###*:                .=#%%%*:               </tspan>
 </text>
 
-<text x="370" y="30" fill="#c9d1d9">
-<tspan x="370" y="30">diegodelgadog6</tspan>
+<text x="450" y="60" fill="#f5f5f5">
+<tspan x="450" y="30">diegodelgadog6</tspan>
 <tspan x="370" y="50">——————</tspan>
 <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Ubuntu, Android 14</tspan>
 <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">18 years</tspan>

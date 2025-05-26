@@ -64,21 +64,19 @@ text, tspan {white-space: pre;}
   <tspan x="660" y="120" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Ubuntu 24.04, Android 14</tspan>
   <tspan x="660" y="150" class="keyColor">Uptime</tspan>: <tspan class="valueColor">18 years</tspan>
   <tspan x="660" y="180" class="keyColor">Host</tspan>: <tspan class="valueColor">Tecnológico de Monterrey</tspan><tspan class="commentColor"> #GDL</tspan>
-  <tspan x="660" y="210" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Technologies Engineering</tspan><tspan class="commentColor"> #ITC</tspan>
+  <tspan x="660" y="210" class="keyColor">Kernel</tspan>: <tspan class="valueColor">💻 Computer Engineering Student.</tspan><tspan class="commentColor"> #ITC</tspan>
   <tspan x="660" y="240" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, CLion, PyCharm</tspan>
 
   <tspan x="660" y="280" class="keyColor">Languages.Programming</tspan>: <tspan class="valueColor">Python, C, C++</tspan>
   <tspan x="660" y="310" class="keyColor">Languages.Computer</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
   <tspan x="660" y="340" class="keyColor">Languages.Real</tspan>: <tspan class="valueColor">Spanish, English</tspan>
-
-  <tspan x="660" y="380" class="keyColor">Interests.Tech</tspan>: <tspan class="valueColor">AI, Cybersecurity, Open Source</tspan>
-  <tspan x="660" y="410" class="keyColor">Interests.Other</tspan>: <tspan class="valueColor">Gaming, Design, Learning</tspan>
-
-  <!-- Separación clara -->
-  <tspan x="660" y="470" class="keyColor">Contact:</tspan>
-  <tspan x="660" y="500">——————</tspan>
-  <tspan x="660" y="530" class="keyColor">Email</tspan>: <tspan class="valueColor">diegodelgadog1@gmail.com</tspan>
-  <tspan x="660" y="560" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">diegodelgadog6</tspan>
+  
+  <tspan x="660" y="380" class="addColor">while(alive) { think(); create(); repeat(); }</tspan>
+  
+  <tspan x="660" y="430" class="keyColor">Contact:</tspan>
+  <tspan x="660" y="460">——————</tspan>
+  <tspan x="660" y="490" class="keyColor">Email</tspan>: <tspan class="valueColor">diegodelgadog1@gmail.com</tspan>
+  <tspan x="660" y="520" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">diegodelgadog6</tspan>
 </text>
 
 </svg>

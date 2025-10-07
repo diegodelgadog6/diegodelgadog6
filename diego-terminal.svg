@@ -73,7 +73,7 @@ text, tspan {white-space: pre;}
   <tspan x="660" y="310" class="keyColor">Languages.Computer</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
   <tspan x="660" y="340" class="keyColor">Languages.Real</tspan>: <tspan class="valueColor">Spanish, English</tspan>
   
-  <tspan x="660" y="400" class="addColor">run("think for yourself");
+  <tspan x="660" y="400" class="addColor">run("think for yourself");</tspan>
   
   <tspan x="660" y="450" class="keyColor">Contact:</tspan>
   <tspan x="660" y="480">——————</tspan>

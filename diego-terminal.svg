@@ -61,7 +61,7 @@ text, tspan {white-space: pre;}
 <text x="660" y="60" fill="#f5f5f5" font-size="20px">
   <tspan x="660" y="60">diegodelgadog6</tspan>
   <tspan x="660" y="90">——————</tspan>
-  <tspan x="660" y="120" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Ubuntu 24.04, Android 14</tspan>
+  <tspan x="660" y="120" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Pop! OS, Ubuntu 24.04, Android 14</tspan>
   <tspan x="660" y="150" class="keyColor">Uptime</tspan>: <tspan class="valueColor">18 years</tspan>
   <tspan x="660" y="180" class="keyColor">Host</tspan>: <tspan class="valueColor">Tecnológico de Monterrey</tspan><tspan class="commentColor"> #GDL</tspan>
   <tspan x="660" y="210" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science and Technology Student.

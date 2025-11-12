@@ -70,7 +70,7 @@ text, tspan {white-space: pre;}
   <tspan x="660" y="240" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, CLion</tspan>
 
   <tspan x="660" y="280" class="keyColor">Languages.Programming</tspan>: <tspan class="valueColor">Python, C, C++</tspan>
-  <tspan x="660" y="310" class="keyColor">Languages.Computer</tspan>: <tspan class="valueColor">HTML, CSS</tspan>
+  <tspan x="660" y="310" class="keyColor">Languages.Computer</tspan>: <tspan class="valueColor">HTML, CSS, SQL</tspan>
   <tspan x="660" y="340" class="keyColor">Languages.Real</tspan>: <tspan class="valueColor">Spanish, English</tspan>
   
   <tspan x="660" y="400" class="addColor">run("think for yourself");</tspan>

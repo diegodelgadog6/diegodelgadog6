@@ -60,23 +60,21 @@ text, tspan {white-space: pre;}
 
 <text x="660" y="60" fill="#f5f5f5" font-size="20px">
   <tspan x="660" y="60">diegodelgadog6</tspan>
-  <tspan x="660" y="90">——————</tspan>
+  <tspan x="660" y="90" class="commentColor">——————————————————</tspan>
   <tspan x="660" y="120" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Bazzite</tspan>
   <tspan x="660" y="150" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years old</tspan>
   <tspan x="660" y="180" class="keyColor">Host</tspan>: <tspan class="valueColor">Tecnológico de Monterrey</tspan><tspan class="commentColor"> #GDL</tspan>
-  <tspan x="660" y="210" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science and Technology Student.
-
-</tspan><tspan class="commentColor"> #ITC</tspan>
-  <tspan x="660" y="240" class="keyColor">Tools</tspan>: <tspan class="valueColor">Cursor, VSCode, Claude Code</tspan>
-
-  <tspan x="660" y="280" class="keyColor">Languages.Programming</tspan>: <tspan class="valueColor">Python, C++</tspan>
-  <tspan x="660" y="310" class="keyColor">Languages.Computer</tspan>: <tspan class="valueColor">HTML, CSS, JS, SQL</tspan>
-  <tspan x="660" y="340" class="keyColor">Languages.Real</tspan>: <tspan class="valueColor">Spanish, English</tspan>
-  
-  <tspan x="660" y="400" class="addColor">run("think for yourself");</tspan>
-  
-  <tspan x="660" y="480">——————</tspan>
-  <tspan x="660" y="510" class="keyColor">My Web Site</tspan>: <tspan class="valueColor">diegodelgadogontes.com</tspan>
+  <tspan x="660" y="210" class="keyColor">Kernel</tspan>: <tspan class="valueColor">CS &amp; Technology Student</tspan><tspan class="commentColor"> #ITC</tspan>
+  <tspan x="660" y="240" class="keyColor">IDE</tspan>: <tspan class="valueColor">Cursor, VSCode, CLion</tspan>
+  <tspan x="660" y="270" class="commentColor">——————————————————</tspan>
+  <tspan x="660" y="300" class="keyColor">Languages.Code</tspan>: <tspan class="valueColor">Python, C, C++, JS, Ruby</tspan>
+  <tspan x="660" y="330" class="keyColor">Frameworks</tspan>: <tspan class="valueColor">React, Flask, Tailwind CSS</tspan>
+  <tspan x="660" y="360" class="keyColor">Tools</tspan>: <tspan class="valueColor">Socket.IO, MySQL, MQTT, Git</tspan>
+  <tspan x="660" y="390" class="keyColor">Languages.Human</tspan>: <tspan class="valueColor">Spanish, English</tspan>
+  <tspan x="660" y="420" class="commentColor">——————————————————</tspan>
+  <tspan x="660" y="460" class="addColor">run("think for yourself");</tspan>
+  <tspan x="660" y="510" class="commentColor">——————————————————</tspan>
+  <tspan x="660" y="540" class="keyColor">My Web Site</tspan>: <tspan class="valueColor">diegodelgadogontes.com</tspan>
 </text>
 
 </svg>

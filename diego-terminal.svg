@@ -61,15 +61,15 @@ text, tspan {white-space: pre;}
 <text x="660" y="60" fill="#f5f5f5" font-size="20px">
   <tspan x="660" y="60">diegodelgadog6</tspan>
   <tspan x="660" y="90" class="commentColor">——————————————————</tspan>
-  <tspan x="660" y="120" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Bazzite</tspan>
+  <tspan x="660" y="120" class="keyColor">OS</tspan>: <tspan class="valueColor">Bazzite, Windows 11</tspan>
   <tspan x="660" y="150" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years old</tspan>
   <tspan x="660" y="180" class="keyColor">Host</tspan>: <tspan class="valueColor">Tecnológico de Monterrey</tspan><tspan class="commentColor"> #GDL</tspan>
   <tspan x="660" y="210" class="keyColor">Kernel</tspan>: <tspan class="valueColor">CS &amp; Technology Student</tspan><tspan class="commentColor"> #ITC</tspan>
-  <tspan x="660" y="240" class="keyColor">IDE</tspan>: <tspan class="valueColor">Cursor, VSCode, CLion</tspan>
+  <tspan x="660" y="240" class="keyColor">IDE</tspan>: <tspan class="valueColor">Cursor, VSCode</tspan>
   <tspan x="660" y="270" class="commentColor">——————————————————</tspan>
-  <tspan x="660" y="300" class="keyColor">Languages.Code</tspan>: <tspan class="valueColor">Python, C, C++, JS, Ruby</tspan>
+  <tspan x="660" y="300" class="keyColor">Languages.Code</tspan>: <tspan class="valueColor">Python, C++, JS</tspan>
   <tspan x="660" y="330" class="keyColor">Frameworks</tspan>: <tspan class="valueColor">React, Flask, Tailwind CSS</tspan>
-  <tspan x="660" y="360" class="keyColor">Tools</tspan>: <tspan class="valueColor">Socket.IO, MySQL, MQTT, Git</tspan>
+  <tspan x="660" y="360" class="keyColor">Tools</tspan>: <tspan class="valueColor">Socket.IO, MySQL, Git</tspan>
   <tspan x="660" y="390" class="keyColor">Languages.Human</tspan>: <tspan class="valueColor">Spanish, English</tspan>
   <tspan x="660" y="420" class="commentColor">——————————————————</tspan>
   <tspan x="660" y="460" class="addColor">run("think for yourself");</tspan>

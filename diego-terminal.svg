@@ -64,20 +64,20 @@ text, tspan {white-space: pre;}
 <text x="590" y="105" fill="#f5f5f5" font-size="20px">
   <tspan x="590" y="105">diegodelgadog6</tspan>
   <tspan x="590" y="135" class="commentColor">——————————————————</tspan>
-  <tspan x="590" y="165" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years old</tspan>
-  <tspan x="590" y="195" class="keyColor">Host</tspan>: <tspan class="valueColor">Tecnológico de Monterrey</tspan><tspan class="commentColor"> #GDL</tspan>
-  <tspan x="590" y="225" class="keyColor">Kernel</tspan>: <tspan class="valueColor">CS &amp; Technology Student</tspan><tspan class="commentColor"> #ITC</tspan>
-  <tspan x="590" y="255" class="keyColor">Focus</tspan>: <tspan class="valueColor">Full-Stack Web, IoT, Game Dev</tspan>
-  <tspan x="590" y="285" class="commentColor">——————————————————</tspan>
-  <tspan x="590" y="315" class="keyColor">Languages.Code</tspan>: <tspan class="valueColor">Python, C++, C#, JS</tspan>
-  <tspan x="590" y="345" class="keyColor">Frontend</tspan>: <tspan class="valueColor">React, Tailwind CSS, Vite</tspan>
-  <tspan x="590" y="375" class="keyColor">Backend</tspan>: <tspan class="valueColor">Node.js, Express, Flask, FastAPI</tspan>
-  <tspan x="590" y="405" class="keyColor">Data</tspan>: <tspan class="valueColor">PostgreSQL, MySQL, MQTT, Socket.IO</tspan>
-  <tspan x="590" y="435" class="keyColor">Tools</tspan>: <tspan class="valueColor">Git, Unity, Vercel, Railway</tspan>
-  <tspan x="590" y="465" class="keyColor">Languages.Human</tspan>: <tspan class="valueColor">Spanish, English</tspan>
-  <tspan x="590" y="495" class="commentColor">——————————————————</tspan>
-  <tspan x="590" y="525" class="keyColor">Portfolio</tspan>: <tspan class="valueColor">diegodelgadogontes.com</tspan>
-  <tspan x="590" y="555" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">linkedin.com/in/diegodelgadog6</tspan>
+  <tspan x="590" y="165" class="keyColor">OS</tspan>: <tspan class="valueColor">Bazzite, Windows 11</tspan>
+  <tspan x="590" y="195" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years old</tspan>
+  <tspan x="590" y="225" class="keyColor">Host</tspan>: <tspan class="valueColor">Tecnológico de Monterrey</tspan><tspan class="commentColor"> #GDL</tspan>
+  <tspan x="590" y="255" class="keyColor">Kernel</tspan>: <tspan class="valueColor">CS &amp; Technology Student</tspan><tspan class="commentColor"> #ITC</tspan>
+  <tspan x="590" y="285" class="keyColor">IDE</tspan>: <tspan class="valueColor">Cursor, VSCode</tspan>
+  <tspan x="590" y="315" class="commentColor">——————————————————</tspan>
+  <tspan x="590" y="345" class="keyColor">Languages.Code</tspan>: <tspan class="valueColor">Python, C++, C#, JS</tspan>
+  <tspan x="590" y="375" class="keyColor">Frontend</tspan>: <tspan class="valueColor">React, Tailwind CSS, Vite</tspan>
+  <tspan x="590" y="405" class="keyColor">Backend</tspan>: <tspan class="valueColor">Node.js, Express, Flask, FastAPI</tspan>
+  <tspan x="590" y="435" class="keyColor">Data</tspan>: <tspan class="valueColor">PostgreSQL, MySQL, MQTT, Socket.IO</tspan>
+  <tspan x="590" y="465" class="keyColor">Tools</tspan>: <tspan class="valueColor">Git, Unity, Vercel, Railway</tspan>
+  <tspan x="590" y="495" class="keyColor">Languages.Human</tspan>: <tspan class="valueColor">Spanish, English</tspan>
+  <tspan x="590" y="525" class="commentColor">——————————————————</tspan>
+  <tspan x="590" y="555" class="keyColor">Portfolio</tspan>: <tspan class="valueColor">diegodelgadogontes.com</tspan>
 </text>
 
 </svg>
